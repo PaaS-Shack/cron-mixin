@@ -1,0 +1,22 @@
+{
+  "name": "cron-mixin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cron.mixin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaaS-Shack/cron-mixin.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PaaS-Shack/cron-mixin/issues"
+  },
+  "homepage": "https://github.com/PaaS-Shack/cron-mixin#readme",
+  "dependencies": {
+    "cron": "^1.8.2"
+  }
+}
